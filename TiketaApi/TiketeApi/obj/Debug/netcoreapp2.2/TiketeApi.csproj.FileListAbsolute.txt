@@ -1,0 +1,13 @@
+C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\bin\Debug\netcoreapp2.2\TiketeApi.deps.json
+C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\bin\Debug\netcoreapp2.2\TiketeApi.runtimeconfig.json
+C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\bin\Debug\netcoreapp2.2\TiketeApi.runtimeconfig.dev.json
+C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\bin\Debug\netcoreapp2.2\TiketeApi.dll
+C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\obj\Debug\netcoreapp2.2\TiketeApi.csproj.CoreCompileInputs.cache
+C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\obj\Debug\netcoreapp2.2\TiketeApi.RazorAssemblyInfo.cache
+C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\obj\Debug\netcoreapp2.2\TiketeApi.RazorAssemblyInfo.cs
+C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\obj\Debug\netcoreapp2.2\TiketeApi.AssemblyInfoInputs.cache
+C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\obj\Debug\netcoreapp2.2\TiketeApi.AssemblyInfo.cs
+C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\obj\Debug\netcoreapp2.2\TiketeApi.RazorTargetAssemblyInfo.cache
+C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\bin\Debug\netcoreapp2.2\TiketeApi.pdb
+C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\obj\Debug\netcoreapp2.2\TiketeApi.dll
+C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\obj\Debug\netcoreapp2.2\TiketeApi.pdb
