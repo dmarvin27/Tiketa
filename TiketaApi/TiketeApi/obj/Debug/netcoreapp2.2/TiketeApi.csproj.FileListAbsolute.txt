@@ -11,3 +11,4 @@ C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\obj\Debug\netcoreapp2.2
 C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\bin\Debug\netcoreapp2.2\TiketeApi.pdb
 C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\obj\Debug\netcoreapp2.2\TiketeApi.dll
 C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\obj\Debug\netcoreapp2.2\TiketeApi.pdb
+C:\Users\Alvin.Bernardo\source\repos\TiketeApi\TiketeApi\obj\Debug\netcoreapp2.2\TiketeApi.csprojAssemblyReference.cache

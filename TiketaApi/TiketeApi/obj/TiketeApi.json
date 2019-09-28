@@ -122,6 +122,10 @@
             "type": "string",
             "nullable": true
           },
+          "govSolution": {
+            "type": "string",
+            "nullable": true
+          },
           "govEstimateStart": {
             "type": "string",
             "format": "date-time",

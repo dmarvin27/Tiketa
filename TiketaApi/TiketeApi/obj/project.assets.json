@@ -13129,11 +13129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\User\\Alvin Bernardo\\Desktop\\REPO\\Tiketa\\TiketaApi\\TiketeApi\\TiketeApi.csproj",
+      "projectUniqueName": "C:\\Users\\Alvin.Bernardo\\source\\repos\\TiketeApi\\TiketeApi\\TiketeApi.csproj",
       "projectName": "TiketeApi",
-      "projectPath": "D:\\User\\Alvin Bernardo\\Desktop\\REPO\\Tiketa\\TiketaApi\\TiketeApi\\TiketeApi.csproj",
+      "projectPath": "C:\\Users\\Alvin.Bernardo\\source\\repos\\TiketeApi\\TiketeApi\\TiketeApi.csproj",
       "packagesPath": "C:\\Users\\Alvin.Bernardo\\.nuget\\packages\\",
-      "outputPath": "D:\\User\\Alvin Bernardo\\Desktop\\REPO\\Tiketa\\TiketaApi\\TiketeApi\\obj\\",
+      "outputPath": "C:\\Users\\Alvin.Bernardo\\source\\repos\\TiketeApi\\TiketeApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
