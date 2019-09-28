@@ -33,6 +33,8 @@ namespace TiketeApi.Models
         public string GovAssigned { get; set; }
         [Column("gov_cause")]
         public string GovCause { get; set; }
+        [Column("gov_solution")]
+        public string GovSolution { get; set; }
         [Column("gov_estimate_start", TypeName = "datetime")]
         public DateTime? GovEstimateStart { get; set; }
         [Column("gov_estimate_end", TypeName = "datetime")]
